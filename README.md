@@ -1,5 +1,6 @@
 # MilkdropBatchScreenshot
-During the early versions of NestDrop, I needed a way to automatically capture screenshots of about 10,000 presets.  
+During the early versions of NestDrop, I needed a way to automatically capture screenshots of about 10,000 presets.
+
 _Code by Nathan Williams - Concept by Jason Fletcher_
 
 ### Dependencies
