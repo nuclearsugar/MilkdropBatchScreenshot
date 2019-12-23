@@ -1,6 +1,7 @@
 # MilkdropBatchScreenshot
-Code by Nathan Williams  
-Concept by Jason Fletcher
+During the early versions of NestDrop, I needed a way to automatically capture screenshots of about 10,000 presets.
+
+Code by Nathan Williams - Concept by Jason Fletcher
 
 ### Dependencies
 Winamp v5.66  
@@ -25,4 +26,4 @@ python MilkdropBatchScreenshot.py
 * To stop a session that is currently running, hit CTRL-ALT-DEL and wait two seconds. This will force a time out of the python script.
 
 ### After the screenshots are completed
-* If you want to crop out the Milkdrop window frame and just be left with pure preset visuals then I suggest using Photoshop. This can be achieved by creating a custom action so as to crop a precise region of an image. Then this action can be automatically applied to a whole folder of images by running it as a batch (file > automate > batch). FYI this assumes that all of your screenshots are the exact same resolution, otherwise the crop will not all line up for all images.
+If you want to crop out the Milkdrop window frame and be left with just the preset visuals, then I suggest using Photoshop. This can be achieved in Photoshop by creating a custom action which crops a precise region of an image. Then this action can be automatically applied to a whole folder of images by running it as a batch (file > automate > batch). Although this assumes that all of your screenshots are the exact same resolution, otherwise the crop will not all line up for all images.
