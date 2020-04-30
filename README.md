@@ -1,5 +1,5 @@
 # MilkdropBatchScreenshot
-In the early versions of [NestDrop](http://www.nestimmersion.ca/nestdrop.html), I needed a way to automatically capture screenshots for about 10,000 presets. NestDrop now has a auto screenshot included within the software, so the python script below is shared for posterity.
+In the early versions of [NestDrop](http://www.nestimmersion.ca/nestdrop.html), I needed a way to automatically capture screenshots for about 10,000 presets. NestDrop now has a screenshot tool included within the software, so the python script below is shared for posterity.
 
 _Code by Nathan Williams - Concept by Jason Fletcher_
 
