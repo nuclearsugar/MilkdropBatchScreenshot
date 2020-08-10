@@ -23,6 +23,7 @@ python MilkdropBatchScreenshot.py
 * If the preset filename is too long and exceeds the max file path of Windows, then the python script will fail ("IOerror: no such file or directory").
 * This script is currently set to automatically capture 3 screenshots of each preset. If you rather capture a different amount, then just edit line #112 of the python script. <for i in range(1,4):>
 * When you're ready to start the python script, make sure to close Winamp prior to executing. The python script will open Winamp on its own.
+* Ready? Open up a command prompt (run as administrator), navigate to where the python code is located, and run: ```python MilkdropBatchScreenshot.py```
 * To stop a session that is currently running, hit CTRL-ALT-DEL and wait two seconds. This will force a time out of the python script.
 
 ### After the screenshots are completed
